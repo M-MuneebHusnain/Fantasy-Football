@@ -1,6 +1,6 @@
-# Fantasy Football Phase 2 SNACK
+# Fantasy Football 
 
-Welcome to Fantasy Football Phase 2 SNACK, the ultimate companion for crafting your Dream Fantasy English Premier League Football Team.
+Welcome to Fantasy Football, the ultimate companion for crafting your Dream Fantasy English Premier League Football Team.
 
 # Key Features:
 
