@@ -1,6 +1,7 @@
 # Fantasy Football 
 
 Welcome to Fantasy Football, the ultimate companion for crafting your Dream Fantasy English Premier League Football Team.
+It can accessed online using: https://snack.expo.dev/@m_muneebhusnain/fantasy-football-2-muneeb
 
 # Key Features:
 
