@@ -1,0 +1,8 @@
+---EXPO LINK---
+
+https://snack.expo.dev/@m_muneebhusnain/fantasy-football-2-muneeb
+
+
+---API LINK---
+
+https://rapidapi.com/api-sports/api/api-football
